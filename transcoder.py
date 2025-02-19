@@ -8,8 +8,6 @@ This application implements a drop video transcoder that lets
 you easily convert media files by dragging and dropping them
 on your computer. See the README for more details.
 
-    https://github.com/boto3/boto3-sample
-
 """
 
 from __future__ import print_function
